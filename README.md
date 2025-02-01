@@ -41,3 +41,4 @@ mysqldump -u $USER -p$PASSWORD --single-transaction --routines --triggers $DATAB
 echo "MySQL Backup completed: $BACKUP_FILE"
 ```
 ## Output
+![Image](https://github.com/user-attachments/assets/a97db714-ff02-472c-8488-6b6fa13e86b9)
