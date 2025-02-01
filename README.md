@@ -1,4 +1,18 @@
 # DATABASE_MIGRATION
+
+
+**COMPANY**: CODETECH IT SOLUTIONS
+
+**NAME**: HEMAKSHI INGALE
+
+**INTERN ID**: CT08KXN
+
+**DOMAIN**: SQL
+
+**BATCH DURATION**: JANUARY 10th TO FEBRUARY 10th, 2025
+
+**MENTOR NAME**: NEELA SANTOSH KUMAR
+
 # Database Migration: MySQL to PostgreSQL
 
 ## Objective
@@ -25,3 +39,5 @@ BACKUP_FILE="$BACKUP_DIR/mysql_backup.sql"
 mysqldump -u $USER -p$PASSWORD --single-transaction --routines --triggers $DATABASE > "$BACKUP_FILE"
 
 echo "MySQL Backup completed: $BACKUP_FILE"
+```
+## Output
